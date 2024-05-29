@@ -36,6 +36,11 @@ function App() {
         <h1>Diary</h1>
         <p>This is Diary container</p>
       </div>
+      {/* container 7: Footer */}
+      <div className="text-center m-6">
+        <h1>Footer</h1>
+        <p>This is Footer container</p>
+      </div>
     </div>
   );
 }
